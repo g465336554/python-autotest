@@ -1,0 +1,8 @@
+MONGO_URL = '127.0.0.1'
+MONGO_DB = 'toutiao'
+MONGO_TABLE = 'toutiao'
+
+Group_start = 1
+Group_end = 20
+
+KEY = 'ղķ˹'
